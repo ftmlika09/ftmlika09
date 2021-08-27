@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ftmlika09
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning sains
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on jobs
+- 📫 How to reach me in Instagram @ftmlika 
 
 <!---
 ftmlika09/ftmlika09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
